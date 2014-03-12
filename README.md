@@ -12,7 +12,7 @@
 
 ## Features
 - Open iTunes when title is clicked.
-- Sound bars animation pauses when Rdio is paused.
+- Sound bars animation pauses when music is paused.
 
 ## Commands
 ```rb
