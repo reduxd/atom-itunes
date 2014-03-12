@@ -1,5 +1,5 @@
 {
-  "name": "iTunes for Atom",
+  "name": "iTunes",
   "main": "./lib/itunes",
   "version": "0.1.0",
   "description": "Control iTunes from Atom + Now Playing",
