@@ -1,0 +1,13 @@
+menu: [
+  label: 'Packages'
+  submenu: [
+    label: 'iTunes'
+    submenu: [
+      { label: 'Play',               command: 'itunes:play' }
+      { label: 'Pause',              command: 'itunes:pause' }
+      { label: 'Next',               command: 'itunes:next' }
+      { label: 'Previous',           command: 'itunes:previous' }
+      { label: 'Open Current Track', command: 'itunes:open' }
+    ]
+  ]
+]

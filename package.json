@@ -1,0 +1,13 @@
+{
+  "name": "iTunes for Atom",
+  "main": "./lib/itunes",
+  "version": "0.0.1",
+  "description": "Control iTunes from Atom + Now Playing",
+  "repository": "https://github.com/reduxd/atom-itunes",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "applescript": "0.2.1"
+  }
+}
